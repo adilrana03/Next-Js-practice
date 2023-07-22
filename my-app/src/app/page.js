@@ -9,8 +9,8 @@ export default function Home() {
         <br />
         <br />
         <Link href='./products-serverside'> click to go to products page server side rendering</Link>
-
-
+        <br />
+        <Link href='./modulecss'> click to go to css part</Link>
       </div>
     </div>
   )
