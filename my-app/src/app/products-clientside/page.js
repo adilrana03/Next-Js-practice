@@ -15,6 +15,7 @@ const Page = () => {
       })
   }, []);
 
+
   return (
     <div>
       <Navbar />

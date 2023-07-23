@@ -9,6 +9,7 @@ export const productslist = async () => {
 
 }
 const Page = async () => {
+      console.log(process.env.SERVER_PASSWORD);
 
       let products = await productslist();
 
